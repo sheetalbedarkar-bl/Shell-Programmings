@@ -1,7 +1,7 @@
 #!/bin/bash -x
 
-num1=10
-num2=20
+num1=1000
+num2=2000
 
 if [ $num1 -gt $num2 ]
 then
